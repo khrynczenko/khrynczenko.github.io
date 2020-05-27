@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://example.com/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/categories/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/categories/c/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/no-discard/</loc>
+            
+                <lastmod>2020-05-27</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/page/1/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/tags/c-17/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/tags/c-attributes/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/tags/c/</loc>
+            
+        </url>
+    
+</urlset>
