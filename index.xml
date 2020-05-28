@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krzysztof Hrynczenko&#39;s blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Krzysztof Hrynczenko&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>About me Hi, I am Krzysztof Hrynczenko and I am a programmer. Throughout the years I have and I am still gathering a lot of knowledge. I made this blog as a place where I can store it and share it with others.
+I started programming in high school with Pascal and C and initially I did not like it at all. After some time something clicked and I got passionate about it.</description>
+    </item>
+    
+    <item>
+      <title>What is [[nodiscard]] and why it is usefull.</title>
+      <link>http://localhost:1313/post/2020-05-27-no_discard/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2020-05-27-no_discard/</guid>
+      <description>What is [[nodiscard]]? [[nodiscard]] is another attribute that has been added into C++ in the C++17 version. If you don&amp;rsquo;t know what attributes are you can find the details on the reference page but putting it simply they are things that you can annotate types, functions and other things with and thus provide some additional information to the compiler.
+[[nodiscard]] can be applied, in particular to function, enum and class declarations.</description>
+    </item>
+    
+  </channel>
+</rss>
